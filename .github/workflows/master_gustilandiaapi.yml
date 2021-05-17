@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'gustilandiaapi'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a6053350e0854234b610b1cdff7a106e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3834c916e56f471aaef897c74d437342 }}
         package: '*.war'
